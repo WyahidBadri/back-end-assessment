@@ -18,7 +18,7 @@ FORK AND CLONE THIS REPO!
 - Create a `GET /cities/:name.json` route that responds with the birds in that city, e.g. `/cities/NYC.json`
 - Create and PSQL database and Sequlize Models and connect them to you express server
 
-## 🚀 Completion looks like:
+## Completion looks like:
 
 - You have an express app in your `bird-app` directory
 - Your express app includes a `server.js`, with accurate routes
